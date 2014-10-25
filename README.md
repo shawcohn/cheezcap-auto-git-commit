@@ -1,4 +1,4 @@
 cheezcap-auto-git-commit
 ========================
 
-Automatically commits changes when CheezCap input is changed and saved.
+The code that allows you to automatically commit changes when CheezCap input is changed will be posted here.
